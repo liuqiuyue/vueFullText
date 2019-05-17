@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+ vue+富文本+代码一键复制
+
 ## Build Setup
 
 ``` bash
